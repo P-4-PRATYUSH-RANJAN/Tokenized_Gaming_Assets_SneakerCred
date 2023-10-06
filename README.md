@@ -1,3 +1,8 @@
+Created By Pratyush Ranjan <br/>
+Enrollment Number:- 12020002004036 <br/>
+Stream :- CSE(AIML)<br/>
+Tokenized Gaming Assets (SneakerCred)<br/>
+
 ### SNEAKER_CRED
 
 SneakerCred utilizes ERC1155 to Manufature 'MyTeamCards', 'MyCareer', & Virtual Currency for Video Games such as 'NBA2K' series. The purpose of this project is to allow game users to be the custodians for their in-game Assets using their Wallet and also able to trade them	on a decentralized exchange. 
@@ -74,7 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration - NBA2K 'MyTeamCards' 
 * [Run the Neighborhood] “The players will be able to walk their created character into a 'Virtual Foot Locker' and shop for a new pair of kicks in the  (NBA2K Game Mode)" 
 
-Created By Pratyush Ranjan <br/>
-Enrollment Number:- 12020002004036 <br/>
-Stream :- CSE(AIML)<br/>
-Tokenized Gaming Assets (SneakerCred)<br/>
+
