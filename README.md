@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration - NBA2K 'MyTeamCards' 
 * [Run the Neighborhood] “The players will be able to walk their created character into a 'Virtual Foot Locker' and shop for a new pair of kicks in the  (NBA2K Game Mode)" 
 
-Created By Pratyush Ranjan
-Enrollment Number:- 12020002004036
-Stream :- CSE(AIML)
-Tokenized Gaming Assets (SneakerCred)
+Created By Pratyush Ranjan <br/>
+Enrollment Number:- 12020002004036 <br/>
+Stream :- CSE(AIML)<br/>
+Tokenized Gaming Assets (SneakerCred)<br/>
